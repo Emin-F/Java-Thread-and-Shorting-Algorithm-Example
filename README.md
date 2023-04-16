@@ -1,1 +1,1 @@
-# Java-Thread-and-Shorting-Algorithm-Example
+# Java Thread and Shorting Algorithm Example
